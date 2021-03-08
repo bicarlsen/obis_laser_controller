@@ -1,2 +1,8 @@
-.ipynb_checkpoints
+.ipynb_checkpoints/
+/build/
+dist/
+_old/
 __pycache__
+*.egg-info/
+
+/bric_solar_simulator/app/target/
